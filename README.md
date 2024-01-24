@@ -12,6 +12,7 @@ This generally follows this tutorial but a few steps are different:
 
 - https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
 
+Specifically, that tutorial makes no mention of running `minikube tunnel` or how to set that up so that it works as intended.
 
 Start Minikube, enable the NGINX Ingress Controller and verify it is running:
 ```
